@@ -7,7 +7,7 @@
 
 ![YG_Baby's github state](https://github-readme-stats.vercel.app/api?username=qmakzl&show_icons=true&theme=radical)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=qmakzl&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=qmakzl&layout=compact&theme=radical)]
 
 <!--
 **qmakzl/qmakzl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
