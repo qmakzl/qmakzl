@@ -6,7 +6,7 @@
 [💻 My Blog](https://qmakzl.github.io/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qmakzl&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+[![YG_Baby's GitHub stats](https://github-readme-stats.vercel.app/api?username=qmakzl&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![YG_Baby's github state](https://github-readme-stats.vercel.app/api?username=qmakzl&show_icons=true&theme=radical)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eunjin0212&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
